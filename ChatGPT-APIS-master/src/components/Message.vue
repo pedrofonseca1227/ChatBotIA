@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="content">
         <v-row class="d-flex overflow-auto">
             <v-col cols="12" sm="2" class="align-start">
@@ -33,4 +33,4 @@ export default {
     .preWrap {
         white-space: pre-wrap;
     }
-</style>
+</style> -->
